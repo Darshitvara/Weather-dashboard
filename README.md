@@ -13,7 +13,7 @@ A simple and responsive weather dashboard built using **vanilla JavaScript** and
 
 ## 📺 Demo
 
-[Live Demo](#) [https://darshitvara.github.io/Weather-dashboard/] <!-- Add your hosted URL here when deployed -->
+[Live Demo](https://darshitvara.github.io/Weather-dashboard/)  <!-- Add your hosted URL here when deployed -->
 
 ## 🛠️ Tech Stack
 
